@@ -1,7 +1,6 @@
 # Blog Marcio WEB
----
 
-## Site Pessoal em formato de **Blog**.
+## Site Pessoal em formato de **Blog**
 
 
 
