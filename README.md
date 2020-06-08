@@ -1,6 +1,6 @@
 ## Marcio WEB
 
-Fico extremamente feliz com a sua chegada ao meu [site](https://marciolinux.github.io). 
+Fico extremamente feliz com a sua chegada ao meu [site pessoal](https://marciognu.github.io). 
 
 Sou um apaixonado por tecnologia e sigo entusiasmado com tudo que é aprendizado relativo ao [software livre](https://www.gnu.org). 
 
