@@ -1,4 +1,4 @@
-## Marcio Amarildo
+## Olá
 
 Fico extremamente feliz com a sua chegada ao meu [site pessoal](https://marcioamarildo.github.io). 
 
@@ -6,17 +6,21 @@ Sou um apaixonado por tecnologia e sigo entusiasmado com tudo que é aprendizado
 
 Entendo a WEB como um encurtador na busca pelo aprendizado constante.
 
+## Experiência
+
 Sou um recém graduado em [Análise e Desenvolvimento de Sistemas](https://www.unicarioca.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas) e estou trilhando esta dinâmica rota de programação de computadores, um sonho de algum tempo que agora estou a realizar. 
 
 Minha experiência anterior foi nas [Telecomunicações](https://pt.wikipedia.org/wiki/Oi_(empresa)),com supervisão de Redes Ópticas por mais de duas décadas, juntando a parte de estágio, terceirização e efetivado. Consegui atuar pelas áreas de Redes, tanto metálicas, como sistemas de rádio, satélite e finalmente redes ópticas, embora em muitas das vezes vi com curiosidade também tópicos da parte de transmissão de dados. 
+
+## Software Livre
 
 Sobre o meu caminhar com computadores e com [Software Livre](http://www.gnu.org/), sempre fui incentivado por vocação de hobbista, tendo usado também há mais de vinte anos... 
 
 Provei de Staroffice, Kurumin, Kalango, Mandrake, Conectiva Linux, vi o nascer do Ubuntu e inclusive com direito a recebimento dos CD's da versão 5.10 em casa, essas foram algumas das minhas experiências. Era um conhcido já nas bancasa de revistas para pegar as distros da época, que vinham em CDs. Fui um devorador do clássico e importante [Guia Foca Linux](https://guiafoca.org/), que por sinal, está voltando firme e forte com atualização agora em 2020.
 
-Atualmente uso software livre quase que na totalidade do tempo, com foco preferencial pela distro [Debian](http://debian.org), apesar de provar outras como [Manjaro](https://manjaro.org), variações do [Ubuntu](https://ubuntu.com/), [Mint](https://linuxmint.com) e até os específicos [Kali](https://www.kali.org/) e [Parrot OS](https://www.parrotlinux.org/) para estudos e indicações aos amigos. Pretendo encontrar uma forma de montar uma distro e difundir entre os pequenos empreendedores.
+Atualmente uso software livre quase que na totalidade do tempo, com foco preferencial pela distro [Debian](http://debian.org), apesar de provar outras como [Manjaro](https://manjaro.org), variações do [Ubuntu](https://ubuntu.com/), [Mint](https://linuxmint.com) e até os específicos [Kali](https://www.kali.org/) e [Parrot OS](https://www.parrotlinux.org/) para estudos e indicações aos amigos. Pretendo encontrar uma forma de montar uma distro e difundir entre os pequenos empreendedores, meu foco principal de atuação.
 
-A principal meta é ter uma distro ideal para uso por pequenos e médios empreendedores, com foco nas atividades laborais. Para isso, é necessário um trabalho voltado a disseminação do software livre com treinamento específico pois as empresas e funcionários ainda estão muito voltados para as soluções pagas.
+A principal meta é ter uma distro ideal para uso por pequenos e médios empreendedores, com foco nas atividades laborais. Para isso, é necessário um trabalho voltado a disseminação do software livre com treinamento específico pois as empresas e funcionários ainda estão muito voltados para as soluções pagas. Uma distor que rode em máquinas modestas e de fácil aprendizado e administração. Apenas isso!!! Ehehe.
 
 ## Projetos atuais
 
