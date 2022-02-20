@@ -28,6 +28,8 @@ Atualmente estou atuando com amigos no [projeto do Portal-BR](http://portal-br.c
 
 Apoie essas iniciativas sempre que puder, será de muita importância para nós todos. Em breve a gente vai tecer mais comentários sobre esta mobilização. Mas posso adiantar, só tem FERA no propósito!!!
 
-Como costumo falar nas redes sociais, soluções livres, segurança da informação e atendimento a MEIs, micro empreendedores e microempresários e pequenas empresas estão como o meu foco principal. Sempre optando por soluções de código aberto. Estudantes e empolgados em aprender sempre são bem-vindos. Quer aprender, evoluir? "Cola em nós"!!!
+Como costumo falar nas redes sociais, soluções livres, segurança da informação e atendimento a MEIs, micro empreendedores e microempresários e pequenas empresas estão como o meu foco principal. Sempre optando por soluções de código aberto. Estudantes e empolgados em aprender sempre são bem-vindos. Quer aprender, evoluir? 
+
+"Cola em nós"!!!
 
 
